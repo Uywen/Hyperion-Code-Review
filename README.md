@@ -10,4 +10,9 @@ Added my Javascript to the html file called cypher.html where the user will be g
 with a prompt asking the user what word they would like to encrypt.The answer to the
 users request will be displayed in the console of the browsers which can be accessed
 using ctrl + i and the developer tools will appear then click on the console ribbon
-and the answer will appear
+and the answer will appear.
+
+The user needs to use node js to debug in the console.
+Using a code editor of their choice.
+
+Section B
